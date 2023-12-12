@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">ThirtyDaysApp</string>
+    <string name="app_name">30 Days Of Wellness</string>
+
+    <string name="act_name_1">Spend 2 hours outdoor</string>
+    <string name="act_name_2">Listen new podcast</string>
+    <string name="act_name_3">Mediate for at least 5 minutes</string>
+    <string name="act_name_4">Read new book</string>
+    <string name="act_name_5">Go to art gallery</string>
+    <string name="act_name_6">Meet with your friends</string>
+    <string name="act_name_7">Try new hobby</string>
+
+    <string name="descr">Put some time on your calendar to take a walk outside or maybe even take a meeting while you\'re strolling through your neighbourhood.</string>
+
+
+
 </resources>
